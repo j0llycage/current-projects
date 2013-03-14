@@ -5,8 +5,8 @@ import java.math.*;
 
 public class calculate {
   
-	static float spokeHoleDiameter; //variable for the spoke hole diameter
-	static float spokeHoleRadius;
+	static float spokeHoleDiameter; //variable to hold the spoke hole diameter
+	static float spokeHoleRadius; //variable to hold the spoke hole radius
 	static float flangeDiameter;
 	static float flangeRadius;
 	static float flangeOffset;
